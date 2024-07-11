@@ -50,6 +50,8 @@ if (domain.includes('laverty')) {
     sCompanyAbbr = 'QML';
 } else if (domain.includes('dorevitch')) {
     sCompanyAbbr = 'DOR';
+} else if (domain.includes('abbott')) {
+    sCompanyAbbr = 'DOR';
 } else if (domain.includes('tmlpath')) {
     sCompanyAbbr = 'TML';
 } else if (domain.includes('wdp')) {
